@@ -2,8 +2,19 @@
     <empleat>
         <nom>Eugenio</nom>
         <cognom>Malgenio</cognom>
-        <direccio>2017-09-12 22:30</direccio>
+        <direccio>Carrer Dali n2</direccio>
+        <ciutat>Barcelona</ciutat>
+        <email>eumal@gmail.com</email>
         <telefon>722000111</telefon>
+    </empleat>
+
+    <empleat>
+        <nom>Roberto</nom>
+        <cognom>Umberto</cognom>
+        <direccio>Carrer Velazquez n4</direccio>
+        <ciutat>Barcelona</ciutat>
+        <email>robum@gmail.com</email>
+        <telefon>722000222</telefon>
     </empleat>
     
 </empleats>

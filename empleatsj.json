@@ -1,0 +1,22 @@
+{
+    "empleats": {
+        "empleat": [
+            {
+                "nom": "Eugenio",
+                "cognom": "Malgenio",
+                "direccio": "Carrer Dali n2",
+                "ciutat": "Barcelona",
+                "email": "eumal@gmail.com",
+                "telefon": "722000111"
+            },
+            {
+                "nom": "Roberto",
+                "cognom": "Umberto",
+                "direccio": "Carrer Velazquez n4",
+                "ciutat": "Barcelona",
+                "email": "robum@gmail.com",
+                "telefon": "722000222"
+            }
+        ]
+    }
+}
